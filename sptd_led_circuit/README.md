@@ -75,13 +75,13 @@ J: 40 -> Arduino: Digital: 12
 
 ## The Code
 
-[Setup Constant Variables]('./sptd_led_circuit.ino#L18')
+[Setup Constant Variables]('https://github.com/MDW-94/arduino_pg/blob/main/sptd_led_circuit/sptd_led_circuit.ino)#L18'
 
-[Set INPUTS & OUTPUTS]('./sptd_led_circuit.ino#L26')
+[Set INPUTS & OUTPUTS]('https://github.com/MDW-94/arduino_pg/blob/main/sptd_led_circuit/sptd_led_circuit.ino)#L26'
 
-[Create empty variable]('./sptd_led_circuit.ino#L37')
+[Create empty variable]('https://github.com/MDW-94/arduino_pg/blob/main/sptd_led_circuit/sptd_led_circuit.ino)#L37'
 
-[Store switch variable value]('./sptd_led_circuit.ino#L43')
+[Store switch variable value]('https://github.com/MDW-94/arduino_pg/blob/main/sptd_led_circuit/sptd_led_circuit.ino)#L43'
 
 [If-Else statement that reads whether switch value is HIGH (3.3v)]('./sptd_led_circuit.ino#L46')
 
